@@ -47,5 +47,5 @@ You can also view my official HyperionDev portfolio here:
 ---
 
 ## 📫 Connect
-- LinkedIn: [linkedin.com/in/matthewwierenga](https://linkedin.com/in/matthewwierenga)  
+- LinkedIn: [linkedin.com/in/matthewwierenga](https://www.linkedin.com/in/mattwierenga/)  
 - GitHub: [github.com/mattdelta2](https://github.com/mattdelta2)
