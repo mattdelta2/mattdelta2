@@ -15,7 +15,7 @@ I'm a Software Engineering and AI enthusiast currently completing my **Immersive
   Django eCommerce web app with MariaDB, robust models, secure decorators, Bootstrap UI, and thorough testing.
 
 ### Vega College Projects
-- [CapeFlat Chronicles](https://github.com/Vega-College-Projects/GADE3B)  
+- [CapeFlat Chronicles](https://github.com/Vega-College-Projects/WIL-3B)  
   Narrative-driven interactive media project (WIL 3A/3B).
 
 - [Time Management App](https://github.com/Vega-College-Projects/OPCS_POE_Final)  
